@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 23 16:38:31 ICT 2020
+https\://jitpack.io/.lastUpdated=1598175511573
+http\://jcenter.bintray.com/.error=Could not transfer artifact org.seleniumhq.selenium\:selenium-java\:pom\:3.7.1 from/to central (http\://jcenter.bintray.com)\: Authorization failed for http\://jcenter.bintray.com/org/seleniumhq/selenium/selenium-java/3.7.1/selenium-java-3.7.1.pom 403 Forbidden
+@default-central-http\://jcenter.bintray.com/.lastUpdated=1598175510435
+https\://jitpack.io/.error=

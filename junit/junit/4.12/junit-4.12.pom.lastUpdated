@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 20 02:07:47 ICT 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597864067463
+http\://jcenter.bintray.com/.error=Could not transfer artifact junit\:junit\:pom\:4.12 from/to central (http\://jcenter.bintray.com)\: Authorization failed for http\://jcenter.bintray.com/junit/junit/4.12/junit-4.12.pom 403 Forbidden
+https\://jitpack.io/.error=
+@default-central-http\://jcenter.bintray.com/.lastUpdated=1597858159162
+https\://jitpack.io/.lastUpdated=1597743188676

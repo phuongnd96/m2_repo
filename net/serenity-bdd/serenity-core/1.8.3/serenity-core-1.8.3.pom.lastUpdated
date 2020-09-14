@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 23 16:38:26 ICT 2020
+https\://jitpack.io/.lastUpdated=1598175506890
+http\://jcenter.bintray.com/.error=Could not transfer artifact net.serenity-bdd\:serenity-core\:pom\:1.8.3 from/to central (http\://jcenter.bintray.com)\: Authorization failed for http\://jcenter.bintray.com/net/serenity-bdd/serenity-core/1.8.3/serenity-core-1.8.3.pom 403 Forbidden
+@default-central-http\://jcenter.bintray.com/.lastUpdated=1598175505539
+https\://jitpack.io/.error=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 23 16:38:34 ICT 2020
+https\://jitpack.io/.lastUpdated=1598175514214
+http\://jcenter.bintray.com/.error=Could not transfer artifact log4j\:log4j\:pom\:1.2.17 from/to central (http\://jcenter.bintray.com)\: Authorization failed for http\://jcenter.bintray.com/log4j/log4j/1.2.17/log4j-1.2.17.pom 403 Forbidden
+@default-central-http\://jcenter.bintray.com/.lastUpdated=1598175513210
+https\://jitpack.io/.error=

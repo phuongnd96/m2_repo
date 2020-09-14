@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 01 10:24:09 ICT 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1598930649794
+http\://jcenter.bintray.com/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.22.1 from/to central (http\://jcenter.bintray.com)\: Authorization failed for http\://jcenter.bintray.com/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.pom 403 Forbidden
+@default-central-http\://jcenter.bintray.com/.lastUpdated=1598346399230

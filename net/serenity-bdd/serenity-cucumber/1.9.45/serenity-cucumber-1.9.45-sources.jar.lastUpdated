@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 18 14:51:31 ICT 2020
+http\://jcenter.bintray.com/.error=Could not transfer artifact net.serenity-bdd\:serenity-cucumber\:jar\:sources\:1.9.45 from/to central (http\://jcenter.bintray.com)\: Access denied to http\://jcenter.bintray.com/net/serenity-bdd/serenity-cucumber/1.9.45/serenity-cucumber-1.9.45-sources.jar. Error code 403, Forbidden
+@default-central-http\://jcenter.bintray.com/.lastUpdated=1597737091041

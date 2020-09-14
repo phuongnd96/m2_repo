@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 23 16:38:37 ICT 2020
+https\://jitpack.io/.lastUpdated=1598175517214
+http\://jcenter.bintray.com/.error=Could not transfer artifact org.json\:json\:pom\:20180813 from/to central (http\://jcenter.bintray.com)\: Authorization failed for http\://jcenter.bintray.com/org/json/json/20180813/json-20180813.pom 403 Forbidden
+@default-central-http\://jcenter.bintray.com/.lastUpdated=1598175516184
+https\://jitpack.io/.error=

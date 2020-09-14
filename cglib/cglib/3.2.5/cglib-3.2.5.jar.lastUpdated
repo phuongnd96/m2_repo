@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 24 13:05:28 ICT 2020
+http\://jcenter.bintray.com/.error=Could not transfer artifact cglib\:cglib\:jar\:3.2.5 from/to central (http\://jcenter.bintray.com)\: Authorization failed for http\://jcenter.bintray.com/cglib/cglib/3.2.5/cglib-3.2.5.jar 403 Forbidden
+https\://jcenter.bintray.com/.lastUpdated=1598249128511
+@default-central-http\://jcenter.bintray.com/.lastUpdated=1598248825773
